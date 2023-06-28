@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff0da9;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 72px;
+        fill: #ededed;
+        font-family: "Cascadia Code";
+      }
+    </style>
+  </defs>
+  <path id="Rectángulo_1" data-name="Rectángulo 1" class="cls-1" d="M467.243,49.3H597.277V170.7H467.243V49.3Z"/>
+  <text id="ESTUDIO_M" data-name="ESTUDIO M" class="cls-2" transform="translate(285.189 128.454) scale(0.735 0.736)">ESTUDIO M</text>
+</svg>
